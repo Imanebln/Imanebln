@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm BOULOUANE Imane</h1>
-<h4 align="center">I'm a software engineering student.</h4>
+<h2 align="center">I'm a software engineering student.</h2>
 
-###### About me
+<h4>About me</hr>
 
 - 🔭 I am currently a second-year computer science student at ENSAO.
 - 🌱 I’m currently learning ASP.NET & ANGULAR Frameworks
