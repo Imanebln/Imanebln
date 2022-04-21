@@ -9,5 +9,5 @@
 - 📫 How to reach me: boulouane.imane@gmail.com
 
 ###### Languages and tools I use:
-[![github](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)][1]
+![github](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
 
