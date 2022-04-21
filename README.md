@@ -1,5 +1,4 @@
-# Hi there 👋, I'm BOULOUANE Imane
-<h1 align="center">Material Bread</h1>
+<h1 align="center">Hi there 👋, I'm BOULOUANE Imane</h1>
 ## I'm a software engineering student.
 
 ###### About me
@@ -10,3 +9,4 @@
 - 📫 How to reach me: boulouane.imane@gmail.com
 
 ###### Languages and tools I use:
+
