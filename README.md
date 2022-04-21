@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm BOULOUANE Imane</h1>
-## I'm a software engineering student.
+<h1 align="center">## I'm a software engineering student.</h1>
 
 ###### About me
 
