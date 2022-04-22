@@ -28,7 +28,7 @@
 </p>
 <hr/>
 
-## Connect with me:
+###### Connect with me:
 
 <a href="https://www.linkedin.com/in/imane-boulouane-0ba280199/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
 <a href="https://www.facebook.com/imane.bln.5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="fb" width="40" height="40"/></a>
