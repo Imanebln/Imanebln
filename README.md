@@ -14,7 +14,7 @@
 - 📫 How to reach me: **boulouane.imane@gmail.com**
 
 ###### Languages and tools I use:
-<p align="center">
+<p align="left">
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/></a>
