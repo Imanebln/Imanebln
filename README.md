@@ -39,7 +39,14 @@
   <br/>
   <img align="center" alt="ImaneBoulouane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imanebln&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="155px"/>
   <br/>
-
+<br/>
+<p align="center">
+<img align="center" alt="ImaneBoulouane's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=Imanebln&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px"/>
+  <br/>
+  <br/>
+  <br/>
+<img alt="Imanebln's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Imanebln&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
+<br><br><br>
 ###### Connect with me:
 
 <a href="https://www.linkedin.com/in/imane-boulouane-0ba280199/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
