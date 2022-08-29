@@ -9,7 +9,7 @@
 ###### About me
 
 - 🔭 I am currently a last-year computer science student at ENSAO.
-- 🌱 I’m currently learning **ASP.NET & ANGULAR** Frameworks
+- 🌱 I’m currently learning **ASP.NET CORE & ANGULAR** Frameworks
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me: **boulouane.imane@gmail.com**
 
